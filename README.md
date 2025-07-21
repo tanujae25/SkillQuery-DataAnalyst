@@ -1,4 +1,4 @@
-**# Data Analyst Skill Insights
+# Data Analyst Skill Insights
 
 This project is designed to **analyze job descriptions and highlight the most in-demand skills** for Data Analysts and related roles. It combines **data analysis, visualization, and natural language processing techniques** to extract and present key insights.
 
@@ -37,4 +37,4 @@ A Jupyter Notebook (`data_analysis_project/data_analyst_skill_analysis.ipynb`) d
 ---
 
 ## 📂 Project Structure
-**
+
