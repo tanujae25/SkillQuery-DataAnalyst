@@ -1,9 +1,40 @@
-# [SkillQuery.com](https://skillquery.com/)
+**# Data Analyst Skill Insights
 
-A personal passion project that started when I was begining recruiting. 
+This project is designed to **analyze job descriptions and highlight the most in-demand skills** for Data Analysts and related roles. It combines **data analysis, visualization, and natural language processing techniques** to extract and present key insights.
 
-I found comapnies asked for an overwhelming amount of technologies. So I decided to compile that information into a single interface to help other students decide what to invest their time into. 
+---
 
-Backend is built on Flask,MongoDB as well as a fine tuned BERT model that was tweaked for classification of job descriptions. 
+## 🔍 Problem Statement
+Job seekers often face confusion about which technical skills are most requested in the job market.  
+This project aims to:
+- Analyze job postings to find **frequently mentioned skills**.
+- Visualize trends to help candidates prioritize their learning.
 
-Access to backend repository please take a look at [https://github.com/Emilianopp/skillQuery-backend](https://github.com/Emilianopp/skillQuery-backend)
+---
+
+## ⚙ Tech Stack
+- **Programming**: Python (Pandas, NumPy)
+- **Visualization**: Matplotlib, Seaborn, WordCloud
+- **Machine Learning**: BERT-based classification (for skill extraction)
+- **Backend**: Flask (for skill processing)
+- **Database**: MongoDB
+
+---
+
+## 📊 Data Analysis
+A Jupyter Notebook (`data_analysis_project/data_analyst_skill_analysis.ipynb`) demonstrates:
+- **Exploratory Data Analysis (EDA)** of job descriptions.
+- Visualizations of top requested skills.
+- Skill demand trends using bar charts and word clouds.
+
+---
+
+## 🚀 Features
+- **Skill Extraction** from job postings.
+- **Frequency Analysis** of tools and technologies.
+- **Data Visualization** with clear storytelling.
+
+---
+
+## 📂 Project Structure
+**
